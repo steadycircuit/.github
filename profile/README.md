@@ -32,41 +32,19 @@ but our approach stays the same: understand the problem deeply, then build the s
 
 ## What we’re building
 
-<p align="center">
-  <a href="https://steadycircuit.com/products/godopilot">
-    <img src="https://steadycircuit.com/images/products/godopilot-logo.svg" alt="Godopilot" width="72">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://steadysync.steadycircuit.com/">
-    <img src="https://steadycircuit.com/images/products/steadysync-logo.svg" alt="SteadySync" width="72">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://steadycircuit.com/products/tradertaxninja">
-    <img src="https://steadycircuit.com/images/products/tradertaxninja-logo.svg" alt="TraderTaxNinja" width="72">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://steadycircuit.com/products/godopilot"><strong>Godopilot</strong></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://steadysync.steadycircuit.com/"><strong>SteadySync</strong></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://steadycircuit.com/products/tradertaxninja"><strong>TraderTaxNinja</strong></a>
-</p>
-
-### Godopilot
+### <a href="https://steadycircuit.com/products/godopilot"><img src="https://steadycircuit.com/images/products/godopilot-logo.svg" alt="" width="48" align="middle">&nbsp; Godopilot</a>
 
 An AI development companion for Godot projects that understands scenes, scripts, and errors.
 
 <sub>Creative tooling · In development</sub>
 
-### SteadySync
+### <a href="https://steadysync.steadycircuit.com/"><img src="https://steadycircuit.com/images/products/steadysync-logo.svg" alt="" width="48" align="middle">&nbsp; SteadySync</a>
 
 One simple, unified app for keeping files in sync across Google Drive, Amazon S3, and your desktops.
 
 <sub>Cloud storage · In development</sub>
 
-### TraderTaxNinja
+### <a href="https://steadycircuit.com/products/tradertaxninja"><img src="https://steadycircuit.com/images/products/tradertaxninja-logo.svg" alt="" width="48" align="middle">&nbsp; TraderTaxNinja</a>
 
 Cleaner trader tax records and HMRC-ready capital gains reports, without the spreadsheet struggle.
 
