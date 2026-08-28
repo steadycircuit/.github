@@ -32,28 +32,45 @@ but our approach stays the same: understand the problem deeply, then build the s
 
 ## What we’re building
 
-<table border="0" cellpadding="0" cellspacing="12" frame="void" rules="none" style="border: 0 !important; border-collapse: separate;">
-  <tr style="border: 0 !important;">
-    <td width="33%" valign="top" style="border: 0 !important; padding: 12px;">
-      <p align="center"><img src="https://steadycircuit.com/images/products/godopilot-logo.svg" alt="Godopilot" width="72"></p>
-      <h3><a href="https://steadycircuit.com/products/godopilot">Godopilot</a></h3>
-      <p>An AI development companion for Godot projects that understands scenes, scripts, and errors.</p>
-      <sub>Creative tooling · In development</sub>
-    </td>
-    <td width="33%" valign="top" style="border: 0 !important; padding: 12px;">
-      <p align="center"><img src="https://steadycircuit.com/images/products/steadysync-logo.svg" alt="SteadySync" width="72"></p>
-      <h3><a href="https://steadysync.steadycircuit.com/">SteadySync</a></h3>
-      <p>One simple, unified app for keeping files in sync across Google Drive, Amazon S3, and your desktops.</p>
-      <sub>Cloud storage · In development</sub>
-    </td>
-    <td width="33%" valign="top" style="border: 0 !important; padding: 12px;">
-      <p align="center"><img src="https://steadycircuit.com/images/products/tradertaxninja-logo.svg" alt="TraderTaxNinja" width="72"></p>
-      <h3><a href="https://steadycircuit.com/products/tradertaxninja">TraderTaxNinja</a></h3>
-      <p>Cleaner trader tax records and HMRC-ready capital gains reports, without the spreadsheet struggle.</p>
-      <sub>Financial software · In development</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://steadycircuit.com/products/godopilot">
+    <img src="https://steadycircuit.com/images/products/godopilot-logo.svg" alt="Godopilot" width="72">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://steadysync.steadycircuit.com/">
+    <img src="https://steadycircuit.com/images/products/steadysync-logo.svg" alt="SteadySync" width="72">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://steadycircuit.com/products/tradertaxninja">
+    <img src="https://steadycircuit.com/images/products/tradertaxninja-logo.svg" alt="TraderTaxNinja" width="72">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://steadycircuit.com/products/godopilot"><strong>Godopilot</strong></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://steadysync.steadycircuit.com/"><strong>SteadySync</strong></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://steadycircuit.com/products/tradertaxninja"><strong>TraderTaxNinja</strong></a>
+</p>
+
+### Godopilot
+
+An AI development companion for Godot projects that understands scenes, scripts, and errors.
+
+<sub>Creative tooling · In development</sub>
+
+### SteadySync
+
+One simple, unified app for keeping files in sync across Google Drive, Amazon S3, and your desktops.
+
+<sub>Cloud storage · In development</sub>
+
+### TraderTaxNinja
+
+Cleaner trader tax records and HMRC-ready capital gains reports, without the spreadsheet struggle.
+
+<sub>Financial software · In development</sub>
 
 ## How we build
 
