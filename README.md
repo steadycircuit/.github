@@ -1,2 +1,0 @@
-# .github
-Steady Circuit Readme
