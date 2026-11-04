@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://steadycircuit.com">
-    <img src="https://steadycircuit.com/logo-mark-transparent.svg" alt="Steady Circuit" width="460">
+    [https://steadycircuit.com/logo-mark-transparent.svg](https://steadycircuit.com/images/steady-circuit-mark.png)
   </a>
 </p>
 
