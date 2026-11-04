@@ -1,6 +1,6 @@
 <p align="center">
   <strong>Focused software, built by Steady Circuit.</strong><br>
-  Small, thoughtful products for specific domain problems.
+  Thoughtful products for specific domain problems.
 </p>
 
 <p align="center">
