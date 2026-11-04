@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="https://steadycircuit.com">
-    <img src="https://steadycircuit.com/logo-mark-transparent.svg" alt="Steady Circuit" width="460">
-  </a>
-</p>
-
-<p align="center">
   <strong>Focused software, built by Steady Circuit.</strong><br>
   Small, thoughtful products for specific domain problems.
 </p>
